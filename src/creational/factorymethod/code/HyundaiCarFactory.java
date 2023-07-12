@@ -1,4 +1,4 @@
-package creational.factorymethodpattern.impl;
+package creational.factorymethod.code;
 
 public class HyundaiCarFactory implements CarFactory {
 
